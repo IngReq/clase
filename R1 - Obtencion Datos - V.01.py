@@ -5,7 +5,7 @@ import pandas as pd
 import pandas_datareader.data as web
 import time
 
-start = dt.datetime(2007, 1, 1)
+start = dt.datetime(2010, 1, 1)
 end = dt.datetime(2018, 2, 19)
 
 with open('const.csv') as csvarchivo:
